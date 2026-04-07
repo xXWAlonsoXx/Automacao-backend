@@ -1,0 +1,7 @@
+{
+  "name": "automacao-backend-root",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node src/server.js"
+  }
+}
